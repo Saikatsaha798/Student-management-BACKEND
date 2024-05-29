@@ -3,23 +3,23 @@
 
 This project implements a robust and scalable backend API for a student management system using Spring Boot. It offers features for:
 
-##Student CRUD operations: 
+## Student CRUD operations: 
 
 Create, Read, Update, and Delete student data efficiently.
 Data persistence: Leverages a relational database (MySQLL) for secure and reliable student information storage.
 RESTful API: Provides well-structured RESTful endpoints for seamless integration with frontend applications.
 
-##Built with:
+## Built with:
 
 Spring Boot
 Spring Data JPA (or similar ORM)
 
-##Ideal for:
+## Ideal for:
 
 Developers seeking a modern backend foundation for student management applications.
 Educational institutions looking to manage student records efficiently.
 
-##Getting Started:
+## Getting Started:
 
 Clone the repository.
 Configure database connection details.
@@ -29,7 +29,7 @@ Feel free to contribute!
 
 This project welcomes pull requests and suggestions for improvement.
 
-##Additional considerations:
+## Additional considerations:
 
 Highlight project strengths: Briefly mention any unique features or design choices that set your project apart.
 Target audience: Tailor the bio to developers and potential users of your project.
